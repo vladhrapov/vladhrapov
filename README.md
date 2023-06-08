@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladhrapov&layout=compact&border_radius=0" height="166" />
 **vladhrapov/vladhrapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
